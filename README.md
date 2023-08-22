@@ -6,11 +6,10 @@
 
 ### Knowledge
 
-![Static Badge](https://img.shields.io/badge/Game%20Development%2FUnity3D-gray?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/CyberSecurity-330033?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/Game%20Development%2FUnity3D-gray?style=for-the-badge)](#)
+[![Static Badge](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge)](#)
+[![Static Badge](https://img.shields.io/badge/CyberSecurity-330033?style=for-the-badge)](#)
 
-<br />
 <br />
 
 ### Hire Me
