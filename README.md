@@ -7,8 +7,37 @@
 ### Knowledge
 
 [![Static Badge](https://img.shields.io/badge/Game%20Development%2FUnity3D-gray?style=for-the-badge)](#)
+[![Static Badge](https://img.shields.io/badge/Console%20Porting-orange?style=for-the-badge)](#)
 [![Static Badge](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge)](#)
 [![Static Badge](https://img.shields.io/badge/CyberSecurity-330033?style=for-the-badge)](#)
+
+<br />
+
+#### Languages:
+[![Static Badge](https://img.shields.io/badge/C%23-682290?style=plastic&logo=csharp)](#)
+[![Static Badge](https://img.shields.io/badge/Javascript-gray?style=plastic&logo=javascript)](#)
+[![Static Badge](https://img.shields.io/badge/Lua-purple?style=plastic&logo=lua)](#)
+[![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=yellow)](#)
+[![Static Badge](https://img.shields.io/badge/PHP-orange?style=plastic&logo=php)](#)
+
+#### Version Control:
+[![Static Badge](https://img.shields.io/badge/Git-333333?style=plastic&logo=git)](#)
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=plastic&logo=github)](#)
+
+#### Porting:
+[![Static Badge](https://img.shields.io/badge/Xbox%20One-7FBA00?style=plastic&logo=xbox)](#)
+[![Static Badge](https://img.shields.io/badge/PlayStation4-black?style=plastic&logo=playstation)](#)
+[![Static Badge](https://img.shields.io/badge/Nintendo%20Switch-FF0000?style=plastic&logo=nintendoswitch)](#)
+[![Static Badge](https://img.shields.io/badge/Steam-darkblue?style=plastic&logo=steam)](#)
+
+#### OS:
+[![Static Badge](https://img.shields.io/badge/Kali%20Linux-black?style=plastic&logo=kalilinux)](#)
+[![Static Badge](https://img.shields.io/badge/Debian-FF0000?style=plastic&logo=debian)](#)
+
+#### Platforms: 
+[![Static Badge](https://img.shields.io/badge/iOS-gray?style=plastic&logo=apple)](#)
+[![Static Badge](https://img.shields.io/badge/Android-gray?style=plastic&logo=android)](#)
+
 
 <br />
 
