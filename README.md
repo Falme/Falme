@@ -11,14 +11,19 @@
 [![Static Badge](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge)](#)
 [![Static Badge](https://img.shields.io/badge/CyberSecurity-330033?style=for-the-badge)](#)
 
+
 <br />
 
 #### Languages:
+[![Static Badge](https://img.shields.io/badge/Unity3D-black?style=plastic&logo=unity)](#)
 [![Static Badge](https://img.shields.io/badge/C%23-682290?style=plastic&logo=csharp)](#)
 [![Static Badge](https://img.shields.io/badge/Javascript-gray?style=plastic&logo=javascript)](#)
 [![Static Badge](https://img.shields.io/badge/Lua-purple?style=plastic&logo=lua)](#)
 [![Static Badge](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=yellow)](#)
 [![Static Badge](https://img.shields.io/badge/PHP-orange?style=plastic&logo=php)](#)
+[![Static Badge](https://img.shields.io/badge/HTML5-purple?style=plastic&logo=html5)](#)
+[![Static Badge](https://img.shields.io/badge/CSS-orange?style=plastic&logo=css3)](#)
+[![Static Badge](https://img.shields.io/badge/Sass-white?style=plastic&logo=sass)](#)
 
 #### Version Control:
 [![Static Badge](https://img.shields.io/badge/Git-333333?style=plastic&logo=git)](#)
