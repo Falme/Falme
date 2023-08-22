@@ -1,6 +1,8 @@
 ### Hey, y'all, I'm Falme Streamless!
 
 [![Website](https://img.shields.io/website?label=falme.com.br&style=for-the-badge&url=http://falme.com.br/portfolio/index.php)](http://falme.com.br/portfolio/index.php)
+![Static Badge](https://img.shields.io/badge/Dev.to-Dev.to%2FFalme-gray?style=for-the-badge&logo=devdotto&logoColor=White&labelColor=black&link=https%3A%2F%2Fdev.to%2Ffalme)
+
 <!---
 [![Dev.to](https://img.shields.io/twitter/follow/falmeStreamless?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FfalmeStreamless&screen_name=falmeStreamless)
 --->
