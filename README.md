@@ -1,19 +1,19 @@
-### Hey, y'all, I'm Falme Streamless!
+### Who is Falme Streamless?!
 
-[![Website](https://img.shields.io/website?label=falme.com.br&style=for-the-badge&url=http://falme.com.br/portfolio/index.php)](http://falme.com.br/portfolio/index.php)
-![Static Badge](https://img.shields.io/badge/Dev.to-Dev.to%2FFalme-gray?style=for-the-badge&logo=devdotto&logoColor=White&labelColor=black&link=https%3A%2F%2Fdev.to%2Ffalme)
+[![Static Badge](https://img.shields.io/badge/Portfolio-Falme.com.br-gray?style=for-the-badge&logoColor=White&labelColor=black&link=https%3A%2F%2Fdev.to%2Ffalme)](http://falme.com.br/portfolio/index.php)
 
-<!---
-[![Dev.to](https://img.shields.io/twitter/follow/falmeStreamless?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FfalmeStreamless&screen_name=falmeStreamless)
---->
+[![Static Badge](https://img.shields.io/badge/Dev.to-Dev.to%2FFalme-gray?style=for-the-badge&logo=devdotto&logoColor=White&labelColor=black&link=https%3A%2F%2Fdev.to%2Ffalme)](https://dev.to/falme)
 
-- 🌱 I’m currently learning CyberSecurity
-- ⚡ Game Developer / C# / Unity
+### Knowledge
+
+![Static Badge](https://img.shields.io/badge/Game%20Development%2FUnity3D-gray?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/CyberSecurity-330033?style=for-the-badge)
 
 ### Connect with me:
 
-[<img align="left" alt="falme.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Falme Streamless | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Falme Streamless | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Falme Streamless | Dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev.to]
 
